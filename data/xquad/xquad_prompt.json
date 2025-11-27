@@ -1,0 +1,11 @@
+{
+  "xquad_en": "[System Prompt]Based on the given context, give the answer to the question directly.[Context]&&context&&[Question]&&question&&[Answer]",
+  "xquad_zh": "[系统提示]根据给定的上下文，直接给出问题的答案。[上下文]&&context&&[问题]&&question&&[答案]",
+  "xquad_de": "[Systemaufforderung]Beantworte die Frage direkt basierend auf dem gegebenen Kontext.[Kontext]&&context&&[Frage]&&question&&[Antwort]",
+  "xquad_hi": "[सिस्टम संकेत]दिए गए संदर्भ के आधार पर सीधे प्रश्न का उत्तर दें।[संदर्भ]&&context&&[प्रश्न]&&question&&[उत्तर]",
+  "xquad_th": "[คำสั่งระบบ]ให้ตอบคำถามโดยตรงตามบริบทที่กำหนด[บริบท]&&context&&[คำถาม]&&question&&[คำตอบ]",
+  "xquad_vi": "[Lời nhắc hệ thống]Dựa trên ngữ cảnh đã cho, hãy trả lời câu hỏi một cách trực tiếp.[Ngữ cảnh]&&context&&[Câu hỏi]&&question&&[Câu trả lời]",
+  "xquad_es": "[Instrucción del sistema]Con base en el contexto proporcionado, responde directamente a la pregunta.[Contexto]&&context&&[Pregunta]&&question&&[Respuesta]",
+  "xquad_tr": "[Sistem Komutu]Verilen bağlama dayanarak soruyu doğrudan yanıtlayın.[Bağlam]&&context&&[Soru]&&question&&[Yanıt]",
+  "xquad_el": "[Προτροπή συστήματος]Με βάση τα συμφραζόμενα, δώστε άμεσα την απάντηση στην ερώτηση.[Συμφραζόμενα]&&context&&[Ερώτηση]&&question&&[Απάντηση]"
+}
