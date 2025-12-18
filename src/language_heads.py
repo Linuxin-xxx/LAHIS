@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 from collections import Counter
 import model_handler
 
+MODEL_CHOICES = ["aya", "mistral", "llama3"]
+
 
 def start(input_args):
     get_head_indices(input_args.lan_list, input_args.q, min_repetition=input_args.min_rep, model_name=input_args.model)
@@ -103,3 +105,4 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     start(args)
+
